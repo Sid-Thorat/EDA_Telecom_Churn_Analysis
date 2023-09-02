@@ -1,5 +1,8 @@
-# Telecom-Churn-Analysis-EDA
-This repository contains an exploratory data analysis (EDA) project focused on the root causes of customer churn in telecommunication industry, addressing the pain points, and strategically re-engaging with churned users.This case is related to telecom industry where particular organizations want to know that for given certain parameters whether a person will churn or not.
+# Telecom-Churn-Analysis-EDA<br>
+![ezgif com-gif-maker](https://github.com/Sid-Thorat/EDA_Telecom_Churn_Analysis/assets/126258682/da5f5da0-3037-43dc-b085-cb4fe4810ef0)
+
+This repository contains an exploratory data analysis (EDA) project focused on the root causes of customer churn in telecommunication industry, addressing the pain points, and strategica
+lly re-engaging with churned users.This case is related to telecom industry where particular organizations want to know that for given certain parameters whether a person will churn or not.
 
 # Problem Statement
 In the era of rapid technological advancement, telecommunications corporation, faces a pressing challenge of customer churn.Customer churn, in this context, refers to the phenomenon where subscribers discontinue their telecom services.This telecom churn analysis dataset will help you to understand and explore various factors responsible for customer churn.This dataset contains information like whether a customer churned the network according to states,account length,area code, opting for internation plan,voice mail plan,customer service calls, total day, evening, night, international calls,minutes,charges.Explore and analyze the data to discover important factors that affect customer churn.
