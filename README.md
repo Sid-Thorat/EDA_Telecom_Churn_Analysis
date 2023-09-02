@@ -21,8 +21,8 @@ Visualizations are performed to understand relationships between variables. Univ
 
 # Insights
 Users with International Plan tend to churn more frequently.<br>
-11 states out of 51 states have more than 20% churn rate.
-Inter Quartile Range(IQR) is more spread for churned users compared to non churned users.
-Users opting for voice mail plan are more likely to continue with their telecom service.
-There's almost no(near to zero) correlation among day, evening and night time calls.
+11 states out of 51 states have more than 20% churn rate.<br>
+Inter Quartile Range(IQR) is more spread for churned users compared to non churned users.<br>
+Users opting for voice mail plan are more likely to continue with their telecom service.<br>
+There's almost no(near to zero) correlation among day, evening and night time calls.<br>
 Users with more than or equal to 4 customer service calls are more likely to churn.
