@@ -20,8 +20,7 @@ Most of our Data set is numerical. Only State, International Plan, Voice mail pl
 Visualizations are performed to understand relationships between variables. Univariate, bivariate, and multivariate analyses are conducted using various chart types such as bar plots, scatter plots, box plots and pie charts.The project concludes with a heatmap to represent the correlation level in single glance & also a pairplot to show pairwise relation in our dataset.
 
 # Insights
-Users with International Plan tend to churn more frequently.
-
+Users with International Plan tend to churn more frequently.<br>
 11 states out of 51 states have more than 20% churn rate.
 Inter Quartile Range(IQR) is more spread for churned users compared to non churned users.
 Users opting for voice mail plan are more likely to continue with their telecom service.
